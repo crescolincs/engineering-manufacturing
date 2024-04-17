@@ -2,4 +2,4 @@ module github.com/crescolincs/engineering-manufacturing
 
 go 1.21.1
 
-require github.com/crescolincs/lincs-theme v0.0.0-20240416115914-3b9a224865be // indirect
+require github.com/crescolincs/lincs-theme v0.0.0-20240417110805-46c509ed8573 // indirect

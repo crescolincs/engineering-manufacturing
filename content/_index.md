@@ -84,7 +84,7 @@ offerfeatures:
   display: true
   features:
    - heading: UK-leading Engineering & Manufacturing Industry Clusters and Supply Chains
-     image: factory.jpg
+     image: aem-1.jpg
      lead: Lincolnshire is a UK advanced engineering and manufacturing heartland, characterised by high concentrations of research-driven businesses and the extensive application of industrial digitalisation technologies.
      body: >-
            Benefits for investing businesses include:
@@ -102,7 +102,7 @@ offerfeatures:
            Locating in Lincolnshire enables direct access to productivity-focused technologies and expertise, and a wealth of potential manufacturing, engineering and digital supply chain partners. 
      ctatext: about Lincolnshire's Engineering & Manufacturing industry clusters                    
    - heading: Advanced Engineering & Manufacturing Research, Technologies and Innovation
-     image: factory.jpg
+     image: aem-2.jpg
      lead: Companies investing in Lincolnshire can access leading-edge Industry 4.0-focused research and innovation - combining advanced engineering and digital expertise to transform business productivity, efficiency, agility and sustainability.
      body: >-
            - The University of Lincoln has emerged as a leading UK hub for Industry 4.0 R&D, with dedicated research centres applying artificial intelligence (AI), machine learning, big data analytics, robotics and automation, and Internet of Things technologies to key industry challenges.
@@ -115,7 +115,7 @@ offerfeatures:
            Lincolnshire’s R&D capabilities have the potential to deliver competitive edge for investing businesses in sectors including defence, agricultural engineering, process manufacturing, and low-carbon, connected vehicles.
      ctatext: about advanced engineering & manufacturing research and innovation in Lincolnshire 
    - heading: Advanced Engineering & Manufacturing Sector Workforce, Education and Skills
-     image: factory.jpg
+     image: aem-3.jpg
      lead: Lincolnshire provides access to a large, skilled and cost-competitive advanced engineering and manufacturing workforce that is outstanding in the UK.
      body: >-
            - With 63,000 manufacturing workers and a significantly higher percentage of workers in this sector than the Great Britain average, Lincolnshire is a leading UK manufacturing centre.
@@ -130,7 +130,7 @@ offerfeatures:
            For businesses investing in Lincolnshire, the area’s established manufacturing workforce and skills infrastructure enable easier recruitment, fast project delivery and productivity.
      ctatext: about Lincolnshire’s advanced engineering & manufacturing workforce, education and skills 
    - heading: Sites and Properties for Advanced Engineering & Manufacturing Businesses in Lincolnshire
-     image: factory.jpg
+     image: aem-4.jpg
      lead: 'Greater Lincolnshire offers a range of high-quality, industrial sites and property solutions for investing advanced engineering and manufacturing businesses, including:'
      body: >-
            - Ready-to-go sites for built-to-suit prime properties
@@ -147,7 +147,7 @@ offerfeatures:
 
      ctatext: about sites and properties for advanced engineering & manufacturing businesses in Lincolnshire
    - heading: Fast UK & Global Market Access for Advanced Engineering & Manufacturing Businesses
-     image: factory.jpg
+     image: aem-5.jpg
      lead: Lincolnshire provides advanced engineering and manufacturing businesses with fast, multimodal access to UK and international markets.
      body: >-
            - Lincolnshire’s central Great Britain location (north-south) enables fast access by road to the UK’s major manufacturing centres and markets.
@@ -173,30 +173,38 @@ companylogos:
   subheading: 'Businesses established in Lincolnshire’s advanced engineering & manufacturing sector include:'
   scrollbarclr: '#90a6ca'
   companies:
-   - name: BA Systems
-     logo: bae-systems-logo.png
-   - name: Collins Aerospace
-     logo: collins-logo.png
-   - name: Siemens
-     logo: siemens-logo.png
-   - name: BA Systems
-     logo: bae-systems-logo.png
-   - name: Collins Aerospace
-     logo: collins-logo.png
-   - name: Siemens
-     logo: siemens-logo.png
-   - name: BA Systems
-     logo: bae-systems-logo.png
-   - name: Collins Aerospace
-     logo: collins-logo.png
-   - name: Siemens
-     logo: siemens-logo.png
-   - name: BA Systems
-     logo: bae-systems-logo.png
-   - name: Collins Aerospace
-     logo: collins-logo.png
-   - name: Siemens
-     logo: siemens-logo.png 
+   - name: investor company logo
+     logo: aem-logo-1.png
+   - name: investor company logo
+     logo: aem-logo-2.png
+   - name: investor company logo
+     logo: aem-logo-3.png
+   - name: investor company logo
+     logo: aem-logo-4.png
+   - name: investor company logo
+     logo: aem-logo-5.png
+   - name: investor company logo
+     logo: aem-logo-6.png
+   - name: investor company logo
+     logo: aem-logo-7.png
+   - name: investor company logo
+     logo: aem-logo-8.png
+   - name: investor company logo
+     logo: aem-logo-9.png
+   - name: investor company logo
+     logo: aem-logo-10.png
+   - name: investor company logo
+     logo: aem-logo-11.png
+   - name: investor company logo
+     logo: aem-logo-12.png
+   - name: investor company logo
+     logo: aem-logo-13.png
+   - name: investor company logo
+     logo: aem-logo-14.png
+   - name: investor company logo
+     logo: aem-logo-15.png
+   - name: investor company logo
+     logo: aem-logo-16.png  
 
 support:
   display: true
