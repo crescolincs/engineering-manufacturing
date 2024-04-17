@@ -11,9 +11,7 @@ hero:
   display: true
   heading: "Invest in Lincolnshire's Advanced Engineering & Manufacturing Sector: Key Benefits and Opportunities"
   blurb: >-
-        Lincolnshire is an outstanding UK location for advanced manufacturing and engineering, offering access to value-adding industry clusters and Industry 4.0 digital technologies with the potential to transform business productivity, efficiency and sustainability. 
-
-        For advanced engineering and manufacturing companies investing in the UK, Lincolnshire presents a unique location opportunity for business expansion, relocation and innovation.
+        Lincolnshire is an outstanding UK location for investing advanced manufacturing and engineering companies, enabling access to value-adding industry clusters and Industry 4.0 digital technologies with the potential to transform business productivity, efficiency and sustainability. 
   heroImg: 'adv-eng-manu-header.png'
 
 investmentopportunity:
@@ -51,14 +49,14 @@ marketopportunity:
   benefits:
    - benefit: "UK leadership in the fourth industrial revolution,"
      feature: " with domestic demand for Industry 4.0 technologies estimated to be worth £8.9 billion per year."
-   - benefit: "Support for manufacturing companies"
-     feature: " UK government programmes offering potential support for manufacturing companies investing and innovating with digital technologies."
-   - benefit: "UK government investments"
-     feature: " Large-scale UK government defence investments presenting business growth opportunities in technology areas including AI, digital tech, robotics and drones."
-   - benefit: "Net Zero Commitment"
-     feature: " The UK government’s commitment to 100% zero emissions on all new vehicles from 2035 - creating opportunities for innovative transport supply chain companies."
-   - benefit: "UK government-supported research"
-     feature: " Multi-billion pound, UK government-supported research into key low carbon propulsion technologies including batteries, power electronics, motors and drives, and key related technologies including Connected and Autonomous Vehicles (CAVs)."
+   - benefit: "UK government programmes"
+     feature: " offering potential support for manufacturing companies investing and innovating with digital technologies."
+   - benefit: "Large-scale UK government defence investments"
+     feature: " presenting business growth opportunities in technology areas including AI, digital tech, robotics and drones."
+   - benefit: "The UK government’s commitment to 100% zero emissions on all new vehicles"
+     feature: " from 2035 - creating opportunities for innovative transport supply chain companies."
+   - benefit: "Multi-billion pound, UK government-supported research"
+     feature: " into key low carbon propulsion technologies including batteries, power electronics, motors and drives, and key related technologies including Connected and Autonomous Vehicles (CAVs)."
   statsimage:
      display: false
      img: 
@@ -79,55 +77,53 @@ marketopportunity:
      measure: 2010-2019
      clrscheme: dark
      textcolor:  sector-light     
-  ctatext: about the Lincolnshire Engineering & Manufacturing market opportunity
+  ctatext: about the UK advanced engineering and manufacturing market opportunity
 offerfeatures:
   display: true
   features:
    - heading: UK-leading Engineering & Manufacturing Industry Clusters and Supply Chains
      image: aem-1.jpg
-     lead: Lincolnshire is a UK advanced engineering and manufacturing heartland, characterised by high concentrations of research-driven businesses and the extensive application of industrial digitalisation technologies.
+     lead: >-
+           Advanced engineering and manufacturing companies investing in Lincolnshire can join research-driven industry clusters  and access cutting-edge,  productivity-focused industrial digitalisation technologies.
      body: >-
            Benefits for investing businesses include:
 
-           - Co-location with leading companies in the defence, automotive, agricultural, and power generation engineering and technology sectors.
-           Lincolnshire is home to UK-leading industry clusters across the food value chain, from agriculture to food manufacturing, advanced agricultural and food technologies, and food logistics.
+           - Leading companies  and potential supply chain partners in the defence, automotive, agricultural, and power generation engineering and technology sectors.
 
-           - High concentrations of industry in specialisms including machinery and equipment manufacturing, computing and electronics (according to UK government data).
+           - High concentrations of industry and skills in specialisms including machinery and equipment manufacturing, computing and electronics. 
            
-           - UK-leading Industry 4.0 expertise, encompassing AI, big data analytics, digitalisation and automation, applied in diverse industry sectors including agriculture, food manufacturing, warehousing, defence, power generation and process industries.
+           - UK-leading Industry 4.0 expertise, encompassing AI, big data analytics, digitalisation and automation, applied across diverse industrial sectors.
            
-           - Growth opportunities in areas including defence electronics, automotive drivetrain and lightweighting technologies, and low-carbon, connected and autonomous vehicles.
-           
-           
-           Locating in Lincolnshire enables direct access to productivity-focused technologies and expertise, and a wealth of potential manufacturing, engineering and digital supply chain partners. 
-     ctatext: about Lincolnshire's Engineering & Manufacturing industry clusters                    
+           - Business growth opportunities in areas including defence electronics, automotive drivetrain and lightweighting, and low-carbon, connected and autonomous vehicles.
+ 
+     ctatext: about Lincolnshire’s advanced engineering and manufacturing industry clusters                    
    - heading: Advanced Engineering & Manufacturing Research, Technologies and Innovation
      image: aem-2.jpg
-     lead: Companies investing in Lincolnshire can access leading-edge Industry 4.0-focused research and innovation - combining advanced engineering and digital expertise to transform business productivity, efficiency, agility and sustainability.
+     lead: >-
+           Companies investing in Lincolnshire can access leading-edge Industry 4.0-focused research and innovation - combining advanced engineering and digital expertise to transform business productivity, efficiency, agility and sustainability.
      body: >-
-           - The University of Lincoln has emerged as a leading UK hub for Industry 4.0 R&D, with dedicated research centres applying artificial intelligence (AI), machine learning, big data analytics, robotics and automation, and Internet of Things technologies to key industry challenges.
+           - The University of Lincoln is a leading UK hub for Industry 4.0 R&D, with dedicated research centres applying AI, machine learning, big data analytics, and robotics and automation technologies to key industry challenges.
 
-           - Research into sustainable energy and power systems aligns with the core competencies of regional businesses, and the drive for low-carbon energy and propulsion technologies.
+           - Research into sustainable energy and power systems aligns with the core competencies of regional industry, and the drive for low-carbon energy and propulsion technologies.
+          
+          - Sectors supported include defence, agricultural engineering, process manufacturing, and low-carbon, connected vehicles.
            
            - As an example of close R&D partnerships with world-class businesses, Lincoln is one of very few UK universities to hold Siemens Global Principal Partner status.
-                      
-           
-           Lincolnshire’s R&D capabilities have the potential to deliver competitive edge for investing businesses in sectors including defence, agricultural engineering, process manufacturing, and low-carbon, connected vehicles.
+
      ctatext: about advanced engineering & manufacturing research and innovation in Lincolnshire 
    - heading: Advanced Engineering & Manufacturing Sector Workforce, Education and Skills
      image: aem-3.jpg
-     lead: Lincolnshire provides access to a large, skilled and cost-competitive advanced engineering and manufacturing workforce that is outstanding in the UK.
+     lead: >-
+           Lincolnshire provides access to a large, skilled and cost-competitive advanced engineering and manufacturing workforce, enabling easier recruitment, fast project delivery and improved productivity for investing businesses.
      body: >-
-           - With 63,000 manufacturing workers and a significantly higher percentage of workers in this sector than the Great Britain average, Lincolnshire is a leading UK manufacturing centre.
+           - Lincolnshire offers access to a large manufacturing workforce, with a significantly higher percentage of workers in the sector than the Great Britain average.
 
            - Localised workforce strengths include advanced electronics, machinery and equipment, and transport equipment manufacturing.
            
            - Average sector labour costs offer substantial savings versus the national average.
            
-           - Lincolnshire’s educational institutions, including universities and further education colleges, are focused on meeting the specific skills requirements of the area’s advanced engineering and manufacturing businesses - through specialised courses and state-of-the-art technology centres.
-                      
-           
-           For businesses investing in Lincolnshire, the area’s established manufacturing workforce and skills infrastructure enable easier recruitment, fast project delivery and productivity.
+           - Lincolnshire’s educational institutions, including universities and further education colleges, address the specific skills requirements of the area’s advanced engineering and manufacturing businesses - through specialised courses and state-of-the-art technology centres.
+
      ctatext: about Lincolnshire’s advanced engineering & manufacturing workforce, education and skills 
    - heading: Sites and Properties for Advanced Engineering & Manufacturing Businesses in Lincolnshire
      image: aem-4.jpg
@@ -152,21 +148,14 @@ offerfeatures:
      body: >-
            - Lincolnshire’s central Great Britain location (north-south) enables fast access by road to the UK’s major manufacturing centres and markets.
 
-           - The ports of Immingham and Grimsby are the UK’s largest by tonnage, offering diverse cargo handling capabilities and global seafreight connectivity.
+           - The ports of Immingham and Grimsby are amongst the UK’s largest by tonnage, offering diverse cargo handling capabilities and global seafreight connectivity.
            
-           - Airports accessible within 2 hours include East Midlands (the UK’s no.2 air cargo hub), Leeds-Bradford and Birmingham. Within Lincolnshire, Humberside Airport’s Amsterdam Schiphol feeder service (KLM/SkyTeam) enables onward passenger connections to 800 global destinations.
+           - Airports accessible within 2 hours include East Midlands (the UK’s no.2 air cargo hub), Birmingham and Leeds-Bradford. Within Lincolnshire, Humberside Airport’s Amsterdam Schiphol hub-feeder service enables access to hundreds of global destinations. 
            
            - Lincolnshire’s major ports are freight-rail connected. For business travellers, London is accessible by rail from Lincoln in less than 2 hours.
 
-     ctatext: about Lincolnshire’s location and transport connectivity
-support:
-  display: true
-  bgcolor: '#252159'
-  heading: Support for Your Engineering & Manufacturing Sector Business Investment
-  image: green-grad.png
-  lead: >-
-      Working together, Invest Lincolnshire and our partner organisations, including local authorities, education providers and businesses, provide dedicated support to ensure a ‘soft landing’ for companies locating and investing in Lincolnshire.
-  ctatext: about support for investing businesses from Invest Lincolnshire
+     ctatext: about Lincolnshire’s location and transport connectivity 
+
 companylogos:
   display: true
   heading: Home to Leading Advanced Engineering and Manufacturing Businesses
@@ -225,7 +214,7 @@ sectorCTA:
   image: adv-eng-manu-brochure.png
   heading: Get the Data on Lincolnshire as a Engineering & Manufacturing Business Location
   lead: >-
-     Lincolnshire’s Engineering & Manufacturing sector Business Location Guide provides essential information and data for companies researching and evaluation Lincolnshire as a potential investment location, including:                                       
+     Lincolnshire’s Engineering & Manufacturing sector Business Location Guide provides essential information and data for companies researching and evaluating Lincolnshire as a potential investment location, including:                                       
   brochurecontents:
     - highlight: The market opportunity
     - highlight: Industry clusters
