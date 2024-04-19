@@ -106,7 +106,7 @@ offerfeatures:
 
            - Research into sustainable energy and power systems aligns with the core competencies of regional industry, and the drive for low-carbon energy and propulsion technologies.
           
-          - Sectors supported include defence, agricultural engineering, process manufacturing, and low-carbon, connected vehicles.
+           - Sectors supported include defence, agricultural engineering, process manufacturing, and low-carbon, connected vehicles.
            
            - As an example of close R&D partnerships with world-class businesses, Lincoln is one of very few UK universities to hold Siemens Global Principal Partner status.
 
