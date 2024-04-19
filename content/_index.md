@@ -61,20 +61,20 @@ marketopportunity:
      display: false
      img: 
   stats: 
-   - name: UK Consumers
-     size: 67.7
-     measure: million
+   - name: UK Industry 4.0
+     size: £8.9
+     measure: Billion P.A. Market
      clrscheme: light
      textcolor: sector-dark
 
-   - name: UK Market Value
-     size: £254
-     measure: billion P.A.
+   - name: New Vehicles
+     size: 100%
+     measure: Net Zero from 2035
      clrscheme: mid
      textcolor: white
-   - name: UK Market Growth
-     size: +37%
-     measure: 2010-2019
+   - name: Defence Investment
+     size: £85 
+     measure: Billion By 2025
      clrscheme: dark
      textcolor:  sector-light     
   ctatext: about the UK advanced engineering and manufacturing market opportunity
