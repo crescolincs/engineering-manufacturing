@@ -127,7 +127,7 @@ offerfeatures:
      ctatext: about Lincolnshire’s advanced engineering & manufacturing workforce, education and skills 
    - heading: Sites and Properties for Advanced Engineering & Manufacturing Businesses in Lincolnshire
      image: aem-4.jpg
-     lead: 'Greater Lincolnshire offers a range of high-quality, industrial sites and property solutions for investing advanced engineering and manufacturing businesses, including:'
+     lead: 'Lincolnshire offers a range of high-quality, industrial sites and property solutions for investing advanced engineering and manufacturing businesses, including:'
      body: >-
            - Ready-to-go sites for built-to-suit prime properties
 
@@ -197,13 +197,13 @@ companylogos:
 
 support:
   display: true
-  heading: Support for Your Logistics Sector Business Investment
+  heading: Support for Your Advanced Engineering & Manufacturing Sector Business Investment
   lead: >-
       Working together, Invest Lincolnshire and our partner organisations, including local authorities, education providers and businesses, provide dedicated support to ensure a ‘soft landing’ for companies locating and investing in Lincolnshire.
   ctatext: about support for investing businesses from Invest Lincolnshire
   image: blue-grad
 articles:
-  display: true
+  display: false
   heading: Articles for Engineering & Manufacturing in Lincolnshire
 sectorCTA:
   display: true
@@ -212,7 +212,7 @@ sectorCTA:
   buttoncolor: '#e75a13'
   buttonhover: '#af0000'
   image: adv-eng-manu-brochure.png
-  heading: Get the Data on Lincolnshire as a Engineering & Manufacturing Business Location
+  heading: Get the Data on Lincolnshire as an Engineering & Manufacturing Business Location
   lead: >-
      Lincolnshire’s Engineering & Manufacturing sector Business Location Guide provides essential information and data for companies researching and evaluating Lincolnshire as a potential investment location, including:                                       
   brochurecontents:
