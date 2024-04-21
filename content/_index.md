@@ -167,7 +167,7 @@ companylogos:
    - name: investor company logo
      logo: aem-logo-2.png
    - name: investor company logo
-     logo: aem-logo-3.png
+     logo: aem-logo-3.png?1
    - name: investor company logo
      logo: aem-logo-4.png
    - name: investor company logo
@@ -185,13 +185,13 @@ companylogos:
    - name: investor company logo
      logo: aem-logo-11.png
    - name: investor company logo
-     logo: aem-logo-12.png
+     logo: aem-logo-12.png?1
    - name: investor company logo
      logo: aem-logo-13.png
    - name: investor company logo
      logo: aem-logo-14.png
    - name: investor company logo
-     logo: aem-logo-15.png
+     logo: aem-logo-15.png?1
    - name: investor company logo
      logo: aem-logo-16.png  
 
