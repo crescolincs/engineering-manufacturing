@@ -64,17 +64,20 @@ marketopportunity:
    - name: UK Industry 4.0
      size: £8.9
      measure: Billion P.A. Market
+     when:
      clrscheme: light
      textcolor: sector-dark
 
    - name: New Vehicles
      size: 100%
-     measure: Net Zero from 2035
+     measure: Net Zero 
+     when: from 2035
      clrscheme: mid
      textcolor: white
    - name: Defence Investment
      size: £85 
-     measure: Billion By 2025
+     measure: Billion
+     when: By 2025
      clrscheme: dark
      textcolor:  sector-light     
   ctatext: about the UK advanced engineering and manufacturing market opportunity
@@ -135,7 +138,7 @@ offerfeatures:
            
            - Sites with large industrial power supplies
            
-           - Significant potential cost advantages versus key competitor locations.
+           - Significant potential cost advantages versus key competitor locations
            
            - Potential access to renewable energy sources, for sustainable supply chains
            
