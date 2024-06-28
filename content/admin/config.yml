@@ -2,7 +2,7 @@ backend:
   name: github
   repo: crescolincs/engineering-manufacturing
   branch: main
-  base_url: https://engineering-manufacturing.investlincolnshire.co.uk/
+  base_url: https://smc.agrifood.pages.dev
   auth_endpoint: /api/auth
 media_library:
   name: cloudinary
