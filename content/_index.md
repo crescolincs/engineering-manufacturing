@@ -64,7 +64,7 @@ marketopportunity:
    - name: UK Industry 4.0
      size: £8.9
      measure: Billion P.A. Market
-     when:
+     when: ""
      clrscheme: light
      textcolor: sector-dark
 

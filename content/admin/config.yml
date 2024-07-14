@@ -84,7 +84,7 @@ collections: # A list of collections the CMS should be able to edit
                 {label: "Name", name: "name", widget: "string", required: false},
                 {label: "Size", name: "size", widget: "string", required: false},
                 {label: "Measure", name: "measure", widget: "string", required: false},
-                {label: "When", name: "when", widget: "string", required: false},
+                {label: "When", name: "when", widget: "string", default: " ", required: false},
                 {label: "Background Colour", name: "clrscheme", widget: "hidden", required: false},
                 {label: "Text Colour", name: "textcolor", widget: "hidden", required: false}]},
               {label: "Stats Call To Action Text", name: "ctatext", widget: "string", required: false}]}
