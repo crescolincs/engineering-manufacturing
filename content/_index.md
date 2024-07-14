@@ -1,6 +1,6 @@
 ---
 title: 'Invest in the Advanced Engineering & Manufacturing sector. Invest in Lincolnshire'
-socialImage: 'adv-eng-manu-header.png'
+socialImage: 'https://res.cloudinary.com/lincs/image/upload/adv-eng-manu-header.png'
 sector: advanced-engineering-manufacturing
 seoDescription: >-
      Lincolnshire is an outstanding UK location for advanced manufacturing and engineering, offering access to value-adding industry clusters and Industry 4.0 digital technologies with the potential to transform business productivity, efficiency and sustainability. 
@@ -12,33 +12,33 @@ hero:
   heading: "Invest in Lincolnshire's Advanced Engineering & Manufacturing Sector: Key Benefits and Opportunities"
   blurb: >-
         Lincolnshire is an outstanding UK location for investing advanced manufacturing and engineering companies, enabling access to value-adding industry clusters and Industry 4.0 digital technologies with the potential to transform business productivity, efficiency and sustainability. 
-  heroImg: 'adv-eng-manu-header.png'
+  heroImg: 'https://res.cloudinary.com/lincs/image/upload/adv-eng-manu-header.png'
 
 investmentopportunity:
   display: true
   heading: 'The Lincolnshire Advanced Engineering & Manufacturing Investment Opportunity'
   subheading: 'For investing advanced engineering and manufacturing businesses, Lincolnshire offers:'
   offer:
-   - icon: 'business.svg'
+   - icon: 'https://res.cloudinary.com/lincs/image/upload/business.svg'
      title: 'Industry Clusters'
      description: 'Leading, innovating companies in technology-focused sectors including defence and security, agricultural equipment, automotive and power systems technologies.'  
-   - icon: 'market.svg'
+   - icon: 'https://res.cloudinary.com/lincs/image/upload/market.svg'
      title: 'Market Opportunity'
      description: 'Direct access to the UK’s world-leading advanced engineering and manufacturing sector, with growth areas including Industry 4.0 technologies, defence, and low-carbon transport.' 
-   - icon: 'research.svg'
+   - icon: 'https://res.cloudinary.com/lincs/image/upload/research.svg'
      title: 'Research & Innovation'
      description: >-
        UK-leading Industry 4.0 expertise in technologies including artificial intelligence (AI), big data analytics, digitalisation, robotics and automation, and process industry systems.
-   - icon: 'workforce.svg'
+   - icon: 'https://res.cloudinary.com/lincs/image/upload/workforce.svg'
      title: 'Specialist Workforce'
      description: 'A skilled, advanced engineering and manufacturing workforce that is outstanding in the UK.' 
-   - icon: 'property.svg'
+   - icon: 'https://res.cloudinary.com/lincs/image/upload/property.svg'
      title: 'Sites & Properties'
      description: 'Available, cost-effective sites and properties, including options with large industrial power supplies and potential Freeport incentives.'           
-   - icon: 'connectivity.svg'
+   - icon: 'https://res.cloudinary.com/lincs/image/upload/connectivity.svg'
      title: 'Multimodal Connectivity'
      description: 'Fast, multimodal access to UK & global markets'          
-   - icon: 'support.svg'
+   - icon: 'https://res.cloudinary.com/lincs/image/upload/support.svg'
      title: 'Dedicated Support'
      description: 'Dedicated support for investing businesses'    
              
@@ -85,7 +85,7 @@ offerfeatures:
   display: true
   features:
    - heading: UK-leading Engineering & Manufacturing Industry Clusters and Supply Chains
-     image: aem-1.jpg
+     image: https://res.cloudinary.com/lincs/image/upload/aem-1.jpg
      lead: >-
            Advanced engineering and manufacturing companies investing in Lincolnshire can join research-driven industry clusters  and access cutting-edge,  productivity-focused industrial digitalisation technologies.
      body: >-
@@ -101,7 +101,7 @@ offerfeatures:
  
      ctatext: about Lincolnshire’s advanced engineering and manufacturing industry clusters                    
    - heading: Advanced Engineering & Manufacturing Research, Technologies and Innovation
-     image: aem-2.jpg
+     image: https://res.cloudinary.com/lincs/image/upload/aem-2.jpg
      lead: >-
            Companies investing in Lincolnshire can access leading-edge Industry 4.0-focused research and innovation - combining advanced engineering and digital expertise to transform business productivity, efficiency, agility and sustainability.
      body: >-
@@ -115,7 +115,7 @@ offerfeatures:
 
      ctatext: about advanced engineering & manufacturing research and innovation in Lincolnshire 
    - heading: Advanced Engineering & Manufacturing Sector Workforce, Education and Skills
-     image: aem-3.jpg
+     image: https://res.cloudinary.com/lincs/image/upload/aem-3.jpg
      lead: >-
            Lincolnshire provides access to a large, skilled and cost-competitive advanced engineering and manufacturing workforce, enabling easier recruitment, fast project delivery and improved productivity for investing businesses.
      body: >-
@@ -129,7 +129,7 @@ offerfeatures:
 
      ctatext: about Lincolnshire’s advanced engineering & manufacturing workforce, education and skills 
    - heading: Sites and Properties for Advanced Engineering & Manufacturing Businesses in Lincolnshire
-     image: aem-4.jpg
+     image: https://res.cloudinary.com/lincs/image/upload/aem-4.jpg
      lead: 'Lincolnshire offers a range of high-quality, industrial sites and property solutions for investing advanced engineering and manufacturing businesses, including:'
      body: >-
            - Ready-to-go sites for built-to-suit prime properties
@@ -146,7 +146,7 @@ offerfeatures:
 
      ctatext: about sites and properties for advanced engineering & manufacturing businesses in Lincolnshire
    - heading: Fast UK & Global Market Access for Advanced Engineering & Manufacturing Businesses
-     image: aem-5.jpg
+     image: https://res.cloudinary.com/lincs/image/upload/aem-5.jpg
      lead: Lincolnshire provides advanced engineering and manufacturing businesses with fast, multimodal access to UK and international markets.
      body: >-
            - Lincolnshire’s central Great Britain location (north-south) enables fast access by road to the UK’s major manufacturing centres and markets.
@@ -166,37 +166,37 @@ companylogos:
   scrollbarclr: '#90a6ca'
   companies:
    - name: investor company logo
-     logo: aem-logo-1.png
+     logo: https://res.cloudinary.com/lincs/image/upload/aem-logo-1.png
    - name: investor company logo
-     logo: aem-logo-2.png
+     logo: https://res.cloudinary.com/lincs/image/upload/aem-logo-2.png
    - name: investor company logo
-     logo: aem-logo-3.png?1
+     logo: https://res.cloudinary.com/lincs/image/upload/aem-logo-3.png?1
    - name: investor company logo
-     logo: aem-logo-4.png
+     logo: https://res.cloudinary.com/lincs/image/upload/aem-logo-4.png
    - name: investor company logo
-     logo: aem-logo-5.png
+     logo: https://res.cloudinary.com/lincs/image/upload/aem-logo-5.png
    - name: investor company logo
-     logo: aem-logo-6.png
+     logo: https://res.cloudinary.com/lincs/image/upload/aem-logo-6.png
    - name: investor company logo
-     logo: aem-logo-7.png
+     logo: https://res.cloudinary.com/lincs/image/upload/aem-logo-7.png
    - name: investor company logo
-     logo: aem-logo-8.png
+     logo: https://res.cloudinary.com/lincs/image/upload/aem-logo-8.png
    - name: investor company logo
-     logo: aem-logo-9.png
+     logo: https://res.cloudinary.com/lincs/image/upload/aem-logo-9.png
    - name: investor company logo
-     logo: aem-logo-10.png
+     logo: https://res.cloudinary.com/lincs/image/upload/aem-logo-10.png
    - name: investor company logo
-     logo: aem-logo-11.png
+     logo: https://res.cloudinary.com/lincs/image/upload/aem-logo-11.png
    - name: investor company logo
-     logo: aem-logo-12.png?1
+     logo: https://res.cloudinary.com/lincs/image/upload/aem-logo-12.png?1
    - name: investor company logo
-     logo: aem-logo-13.png
+     logo: https://res.cloudinary.com/lincs/image/upload/aem-logo-13.png
    - name: investor company logo
-     logo: aem-logo-14.png
+     logo: https://res.cloudinary.com/lincs/image/upload/aem-logo-14.png
    - name: investor company logo
-     logo: aem-logo-15.png?1
+     logo: https://res.cloudinary.com/lincs/image/upload/aem-logo-15.png?1
    - name: investor company logo
-     logo: aem-logo-16.png  
+     logo: https://res.cloudinary.com/lincs/image/upload/aem-logo-16.png  
 
 support:
   display: true
@@ -204,7 +204,7 @@ support:
   lead: >-
       Working together, Invest Lincolnshire and our partner organisations, including local authorities, education providers and businesses, provide dedicated support to ensure a ‘soft landing’ for companies locating and investing in Lincolnshire.
   ctatext: about support for investing businesses from Invest Lincolnshire
-  image: blue-grad
+  image: https://res.cloudinary.com/lincs/image/upload/blue-grad
 articles:
   display: false
   heading: Articles for Engineering & Manufacturing in Lincolnshire
@@ -214,7 +214,7 @@ sectorCTA:
   headingcolor: light
   buttoncolor: '#e75a13'
   buttonhover: '#af0000'
-  image: adv-eng-manu-brochure.png
+  image: https://res.cloudinary.com/lincs/image/upload/adv-eng-manu-brochure.png
   heading: Get the Data on Lincolnshire as an Engineering & Manufacturing Business Location
   lead: >-
      Lincolnshire’s Engineering & Manufacturing sector Business Location Guide provides essential information and data for companies researching and evaluating Lincolnshire as a potential investment location, including:                                       
@@ -236,7 +236,7 @@ sectorCTA:
        value: advanced-engineering-manufacturing        
      - field: cc
        value: dklongley@clarity-strategies   
-  footerimg: blue-half-grad.png 
+  footerimg: https://res.cloudinary.com/lincs/image/upload/blue-half-grad.png 
 ---
 
 
