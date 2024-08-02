@@ -235,7 +235,7 @@ sectorCTA:
      - field: page
        value: advanced-engineering-manufacturing        
      - field: cc
-       value: dklongley@clarity-strategies   
+       value: investment@lincolnshire.gov.uk  
   footerimg: https://res.cloudinary.com/lincs/image/upload/blue-half-grad.png 
 ---
 
